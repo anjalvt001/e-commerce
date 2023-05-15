@@ -1,0 +1,28 @@
+.header{
+    background-color: #151a1f;
+    padding: 25px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1{
+    margin: 0;
+    
+}
+
+.header button{
+    background-color: #ff5722;
+    border-radius: 10px;
+    color: #fff;
+    padding: 15px 25px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    
+}
+
+.header Link{
+    text-decoration: none;
+}
